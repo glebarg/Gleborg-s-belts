@@ -1,0 +1,70 @@
+.gleborg{
+    
+    
+    justify-content: space-around;
+    margin-top: 80px;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    border-radius: 50px;
+}
+.cont1{
+    position: relative;
+}
+.cont1 .btn-1 {
+    position: absolute;
+    top: 45%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 250%;
+    padding: 1% 1%;
+    border: none;
+    cursor: pointer;
+    
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 90%;
+  }
+  .cont1 .btn-1:hover {
+    background-color:#312013;
+  }
+.gleborgsbeltconteiner{
+display: flex;
+}
+.gleborgbelttext{
+flex-basis: 30%;
+font-size: 30px;
+text-align: center;
+font-family:'Courier New', Courier, monospace;
+margin: 20px;
+}
+.gleborgsbeltimg{
+width: 100%;
+height: auto;
+
+}
+.gleborgsbeltconteiner2{
+    display: flex;
+    justify-content: center;
+    }
+.gleborgbelttext2{
+    background: #ffef68;
+    border: 5px solid #3766ef;
+    border-radius: 50%;
+    height: 40%;
+    width: 40%;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.gleborgbelttext2 div{
+    margin: 90px;
+    font-size: 30px;
+}

@@ -1,0 +1,46 @@
+.conteiner2{
+margin-top: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.text{
+margin-left: 30px;
+font-family:'Courier New', Courier, monospace;
+    
+font-size: 30px;
+
+text-align: center;
+}
+.img-women{
+    flex-basis: 33%;
+  width: 10px;
+  margin-right: 20px;
+}
+.women-text{
+    flex-basis: 67%;
+    background-color: white;
+    border-radius: 0px 100px 100px 0px;
+    margin-right: 1%;
+}
+.warning{
+    font-size: 50px;
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    width:300px;
+    height: 70px;
+    background-color:antiquewhite;
+   text-align: center;
+   margin: auto;
+   margin-top: 20px;
+   font-size: 42px;
+   border-radius: 40px;
+   
+}
+.btn:hover{
+    background-color:rgb(54, 51, 11);
+    cursor: pointer;
+    color: white;
+}
